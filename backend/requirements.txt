@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+websockets
+python-multipart
+langgraph
+langchain-core
+langchain-google-genai
+opencv-python-headless
+easyocr
+pymupdf
+pillow
+numpy
+python-dotenv
